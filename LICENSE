@@ -1,0 +1,13 @@
+Copyright (c) 2026 Botinas Couro Forte — Uberaba-MG. Todos os direitos reservados.
+
+Este software, as fotografias dos produtos, a logomarca e a marca "Botinas Couro Forte"
+são de propriedade exclusiva da Botinas Couro Forte.
+
+É permitido o uso deste aplicativo pelos representantes autorizados da empresa.
+Não é permitido copiar, modificar, distribuir ou utilizar este software, as imagens
+ou a marca para outros fins sem autorização por escrito da Botinas Couro Forte.
+
+Componentes de terceiros incluídos, com suas próprias licenças:
+- SheetJS Community Edition (lib/xlsx.mini.min.js) — Apache License 2.0
+- Fontes Inter e Oswald (Google Fonts) — SIL Open Font License 1.1
+- Lista de estados e cidades (cidades.js) — dados públicos do IBGE

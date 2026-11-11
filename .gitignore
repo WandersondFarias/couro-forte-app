@@ -1,0 +1,17 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Cópias de segurança e planilhas geradas pelo app
+courofort-backup-*.json
+pedido-*.xlsx
+pedidos-couro-forte-*.xlsx
+
+# Arquivos compactados
+*.zip
